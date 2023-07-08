@@ -1,0 +1,1 @@
+provide_resurce (ms this is my main.tf) 
